@@ -11,13 +11,13 @@
 ## Как выглядит на практике?
 ### /items [hero]
 
-![](https://github.com/Larenak/media/blob/main/unknown_2025.04.13-12.06_1.gif)
+![](https://github.com/Larenak/media/blob/main/GIF/unknown_2025.04.13-12.06_1.gif)
 
 ### /meta
 
-![](https://github.com/Larenak/media/blob/main/unknown_2025.04.12-23.12_3.gif)
+![](https://github.com/Larenak/media/blob/main/GIF/unknown_2025.04.12-23.12_3.gif)
 
 ### /counters [hero]
 
-![](https://github.com/Larenak/media/blob/main/unknown_2025.04.12-23.12_2.gif)
+![](https://github.com/Larenak/media/blob/main/GIF/unknown_2025.04.12-23.12_2.gif)
 
