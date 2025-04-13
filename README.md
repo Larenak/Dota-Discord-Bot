@@ -15,9 +15,9 @@
 
 ### /meta
 
-![](https://github.com/Larenak/media/blob/main/unknown_2025.04.12-23.12_2.gif)
+![](https://github.com/Larenak/media/blob/main/unknown_2025.04.12-23.12_3.gif)
 
 ### /counters [hero]
 
-![](https://github.com/Larenak/media/blob/main/unknown_2025.04.12-23.12_3.gif)
+![](https://github.com/Larenak/media/blob/main/unknown_2025.04.12-23.12_2.gif)
 
