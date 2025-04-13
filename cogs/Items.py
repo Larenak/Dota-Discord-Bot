@@ -38,13 +38,13 @@ def Parse_hero_info(hero):
     items_info = {"Items":items, "Matches":matches, "Winrates":winrates}
     return items_info
 
-class Hero(commands.Cog):
+class Items(commands.Cog):
 
     def __init__(self, client):
         self.client = client
     
     @commands.command()
-    async def hero(self,ctx,*, message: str):
+    async def items(self,ctx,*, message: str):
         hero = message.replace(" ","-").lower()
         items_info = Parse_hero_info(hero)
         if items_info == 0:
@@ -56,4 +56,4 @@ class Hero(commands.Cog):
         await ctx.send(embed=embed_msg)
     
 async def setup(client):
-    await client.add_cog(Hero(client))
+    await client.add_cog(Items(client))
